@@ -26,3 +26,8 @@ def usuarios(nome_usuario):
 # colocar o site no ar
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+# servidor do heroku
+
+
